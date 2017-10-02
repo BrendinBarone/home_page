@@ -1602,3 +1602,6 @@
 		.syncFont {
 			font-family: 'Syncopate', sans-serif;
 		}
+		#one{
+			height: 10px;
+		}
